@@ -18,6 +18,7 @@ class MasterViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        //
         // Do any additional setup after loading the view.
 //*******2) comment out below until line:  navigationItem.rightBarButtonItem = addButton
 //        navigationItem.leftBarButtonItem = editButtonItem
